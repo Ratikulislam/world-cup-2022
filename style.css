@@ -1,0 +1,223 @@
+/* font-----------
+------------------ */
+body {
+      @import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&family=Oxygen&family=Poppins:wght@400;500;700&display=swap');
+      font-family: 'Oxygen', sans-serif;
+
+}
+
+
+.text-info {
+      padding-left: 106px;
+      padding-top: 50px;
+      color: white;
+
+
+}
+
+.flex-all {
+      background-color: #6E6E6E;
+      display: flex;
+      margin: 0 150px;
+      height: 650px;
+      border-radius: 50px;
+
+
+}
+
+.header-size {
+      font-size: font-weight:700;
+      font-size: 60px;
+
+}
+
+.paragraph-size {
+      margin-bottom: 40px;
+      font-size: 16px;
+      font-weight: 400;
+}
+
+.text-info a {
+      text-decoration: none;
+      color: black;
+      background-color: #BCFD4C;
+      padding: 8px 20px;
+      border-radius: 5px;
+      font-weight: 400;
+      font-size: 20px;
+}
+
+.flex-section {
+      display: flex;
+}
+
+
+.messi img {
+      padding-left: 480px;
+      height: 650px;
+}
+
+/* second flag section-------
+---------------------------- */
+.argentina-flag img {
+      width: 93px;
+      height: 56px;
+      margin-right: 15px;
+}
+
+.brazil-flag img {
+      width: 93.04px;
+      height: 56.18px;
+      margin-left: 15px;
+}
+
+.team-match-flex {
+      display: flex;
+      justify-content: center;
+      margin-top: 110px;
+
+
+}
+
+.info-matach {
+      text-align: center;
+      padding-right: 38px;
+
+
+}
+
+
+.flag-flex {
+      border: 1px solid whitesmoke;
+      border-radius: 20px;
+      width: 312px;
+      height: 280px;
+
+}
+
+
+
+.flag-parent {
+      display: grid;
+      grid-template-columns: 300px repeat(3, 1fr);
+      grid-column-gap: 24px;
+      grid-template-rows: repeat(2, 1fr);
+      grid-row-gap: 24px;
+      width: 80%;
+      margin: 0 auto;
+      padding: 100px 0;
+
+
+}
+
+/* left side upcoming text one's----------------
+----------------------------------------------- */
+.sidebar-parent {
+      background-color: #6E6E6E;
+      grid-row: 1/-1;
+      color: black;
+      width: 312px;
+      height: 280px;
+      text-align: center;
+      padding-top: 50px;
+      border-radius: 10px;
+
+
+}
+
+
+
+.Upcoming-text {
+      padding-top: 26px;
+      margin-bottom: 30px;
+}
+
+.Upcoming-text button {
+      border: none;
+      background: #BCFD4C;
+      font-weight: 600;
+      border-radius: 10px;
+      padding: 15px 20px;
+
+}
+
+.all-text {
+      margin-bottom: 30px;
+}
+
+.all-text button {
+      border: none;
+      background-color: white;
+      color: #161616;
+      font-weight: 700;
+      border-radius: 10px;
+      padding: 15px 42px;
+}
+
+.blog-text {
+      margin-bottom: 30px;
+}
+
+.blog-text button {
+      border: none;
+      background-color: white;
+      border-radius: 10px;
+      font-weight: 700;
+      padding: 15px 58px;
+      color: #161616;
+}
+
+
+
+
+
+.upcoming-text {
+      background-color: #BCFD4C;
+      padding: 10px 10px;
+      border-radius: 10px;
+}
+
+
+
+/* footer the last pae=rt-------
+--------------------------------- */
+
+footer {
+      background-color: #6E6E6E;
+      height: 400px;
+
+
+}
+
+.foooter-center {
+      text-align: center;
+      padding: 100px;
+      color: whitesmoke;
+      font-weight: 600;
+      font-size: 20px;
+
+}
+
+.line-tag {
+      margin-top: 50px;
+}
+
+.footer-text-end {
+      display: flex;
+      gap: 100px;
+      padding-left: 370px;
+      margin-top: 60px;
+      font-size: 16px;
+
+
+}
+
+
+footer i {
+      font-size: 60px;
+      color: #BCFD4C;
+      margin-top: 65px;
+      margin-left: 50px;
+
+
+}
