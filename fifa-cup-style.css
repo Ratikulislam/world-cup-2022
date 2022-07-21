@@ -6,6 +6,12 @@ body {
 
 }
 
+.upcome-link {
+      text-decoration: none;
+      padding: 10px 16px;
+      background-color: #BCFD4C;
+      border-radius: 7px;
+}
 
 .text-info {
       padding-left: 106px;
